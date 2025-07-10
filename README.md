@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ashwani Baghel</h1>
-<h3 align="center">AI/ML Research Enthusiast | Data Science Explorer | B.Tech CSE @ KIET, Ghaziabad</h3>
+<h1 align="center">Hi there, I'm Ashwani Baghel 👋</h1>
+<h3 align="center">AI/ML Enthusiast | Data Science Explorer | Self-Taught Developer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/ashwani-baghel" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat" /></a>
@@ -9,56 +9,64 @@
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&width=435&lines=Learning+AI+and+Machine+Learning...;Building+Real+World+ML+Projects...;Loves+Working+with+Data;Open+to+Internships+%26+Research!" alt="Typing SVG" />
+</p>
+
+---
+
 ## 🔬 About Me
 
-- B.Tech CSE @ KIET Ghaziabad (2023–26) | 7.9+ CGPA
+- B.Tech in Computer Science (2023–26) @ KIET, Ghaziabad
 - AI/ML enthusiast deeply passionate about research, real-world problem-solving & impactful learning
-- Currently building: `FutureSight` (AI-powered career roadmap platform) and `Smart Irrigation Predictor`
-- Open to roles in: Data Science, Machine Learning, Applied AI, NLP & Research
+- Currently developing AI tools for **career guidance** and **indoor navigation**
+- Passionate about models that can think, learn and predict  
+- Learning with intent — not just tools, but concepts behind them  
+- Exploring internship and research opportunities in AI/ML and data-driven systems
 - Fun fact: I combine tech, leadership, and emotional storytelling into everything I build
 
 ---
 
-## Skills & Core Competencies
+## 💼 Skills & Core Competencies
 
-### Data Analysis & Visualization  
-- Proficient in working with structured data using Python libraries such as **Pandas**, **NumPy**, **Matplotlib**, and **Seaborn**  
-- Familiar with tools like **Power BI**, **Microsoft Excel**, and **Jupyter Notebook** for building reports and dashboards  
-- Experienced in exploratory data analysis (EDA), statistical summaries, data cleaning, and translating data into actionable insights
+### Data Analysis & Practical Insights  
+- Worked with real datasets — from WhatsApp chats to IoT sensors  
+- Used **Pandas**, **NumPy**, **Matplotlib**, and **Seaborn** for cleaning and visualization  
+- Builds dashboards and summaries in **Jupyter**, **Excel**, and **Power BI**
 
-### Artificial Intelligence & Machine Learning  
-- Hands-on experience with **scikit-learn** for traditional ML models and foundational understanding of **TensorFlow**  
-- Knowledge of **NLP workflows**, including text preprocessing, sentiment analysis, and working with **Hugging Face Transformers**  
-- Exposure to prompt engineering and APIs like **OpenAI** for building LLM-based applications and generative models
+### AI & Machine Learning (Self-Paced, Applied)  
+- Built ML models using **scikit-learn**, and CNN using **TensorFlow**  
+- Deployed AI with **OpenAI API**, applied prompt engineering in own apps  
+- Studying **transformer models** and experimenting with Hugging Face
 
-### Research & Mathematical Foundations  
-- Academic exposure to core subjects such as **Linear Algebra**, **Probability**, **Calculus**, and **Abstract Algebra**  
-- Comfortable with applying mathematical reasoning to solve complex problems, including hypothesis testing and model evaluation  
-- Familiar with research methodology, paper reading, and summarizing findings into structured knowledge
+### Mathematical Thinking  
+- Strong grip on **Linear Algebra**, **Probability**, **Calculus**, through both coursework and practice  
+- Applies math in algorithm building, loss function tweaking, and custom evaluation logic
 
-### Communication & Leadership  
-- Confident in public speaking and delivering clear presentations in both academic and professional settings  
-- Capable of working in collaborative teams with effective decision-making and time management  
-- Former **NCC cadet**, demonstrating discipline, teamwork, and leadership under real-world pressure
+### Learning Mindset & Workflow  
+- Writes code from scratch instead of drag-n-drop tools  
+- Uses docs & real documentation to build understanding  
+- Always maintains reproducible codebases via **Git/GitHub**
 
-### Tools for Remote Collaboration  
-- Experienced with version control systems like **Git** and **GitHub**  
-- Comfortable using collaborative platforms such as **Google Workspace (Docs, Sheets, Slides)**, **Slack**, and **Zoom** for distributed teamwork
+### Tech Stack & Collaboration  
+- Version control: Git & GitHub  
+- Tools: Notion, VS Code, Google Docs, Colab  
+- Comfortable working solo or in teams, async or real-time
 
 ---
 
 ## 📚 Featured Projects
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [FutureSight](https://github.com/ashwanibaghel/FutureSight) | AI career roadmap platform with OpenAI integration | React, Firebase, OpenAI API |
-| [3D Indoor Navigation (Patented)](#) | Floor-to-floor indoor tracking using IoT & Firebase | Python, Firebase, Sensors |
-| [WhatsApp Chat Analyzer](#) | NLP-based tool for chat behavior & sentiment analysis | Python, NLP, Matplotlib |
-| [CNN Image Classifier](#) | Deep learning model for real-time inference | TensorFlow, Flask, Python |
+| Project | Description | Stack |
+|--------|-------------|--------|
+| [FutureSight](https://github.com/ashwanibaghel/FutureSight) | Predictive career roadmap platform using OpenAI | React, Firebase, OpenAI API |
+| [3D Indoor Navigation (Patented)](#) | Multi-floor indoor positioning using IoT sensors | Firebase, Python, BMP280 |
+| [WhatsApp Chat Analyzer](#) | NLP-based behavior insights from personal chats | Python, NLP, Matplotlib |
+| [CNN Image Classifier](#) | Deployed deep learning model with real-time interface | TensorFlow, Flask, Python |
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashwanibaghel&show_icons=true&theme=radical" width="48%" />
@@ -79,11 +87,10 @@
 
 ## 🤝 Connect with Me
 
-- Email: ashwanibaghel826@gmail.com  
-- LinkedIn: [linkedin.com/in/ashwani-baghel](https://linkedin.com/in/ashwani-baghel)  
-- Resume & Certifications: [Available on request or LinkedIn]  
-- Let’s build something meaningful together!
+- 📫 Email: ashwanibaghel826@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/ashwani-baghel](https://linkedin.com/in/ashwani-baghel)  
+- 📁 Resume: [Available on LinkedIn or on request]
 
 ---
 
-> “Code with purpose. Learn with depth. Build for impact.” 🌟
+> _"Code with depth. Build with soul. Learn for life."_ 🚀
